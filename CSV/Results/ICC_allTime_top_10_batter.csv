@@ -1,0 +1,11 @@
+ICC_rank,name,country,prelim_metric,prelim_rank,pre-rank,kmeans_role,rbml_score,RBML_rank,pca_score,PCA_rank,hussey_index,hussey_rank
+1,DJ Malan,ENG,56.664,4,Best,SB,2.324,3,5.019,4,178.5,5
+2,AJ Finch,AUS,50.255,6,Best,SB,1.629,7,3.872,6,179.56,3
+3,V Kohli,INDIA,70.9,1,Best,SB,2.494,2,5.252,2,189.17,1
+4,Babar Azam,PAK,58.921,2,Best,SB,2.569,1,5.485,1,174.96,6
+5,KP Pietersen,ENG,53.675,5,Best,SB,1.653,5,3.928,5,179.44,4
+6,EJG Morgan,ENG,38.917,10,Best,FL,0.764,10,2.081,10,164.75,10
+7,AD Hales,ENG,42.375,9,Best,SB,1.23,9,3.003,9,167.66,9
+8,KL Rahul,INDIA,57.965,3,Best,SB,2.31,4,5.047,3,183.17000000000002,2
+9,BB McCullum,NZ,48.572,7,Best,SB,1.64,6,3.701,7,171.87,7
+10,F du Plessis,SA,47.745,8,Best,SB,1.584,8,3.603,8,169.91,8

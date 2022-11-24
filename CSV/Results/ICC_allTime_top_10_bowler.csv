@@ -1,0 +1,11 @@
+ICC_rank,name,country,prelim_metric,prelim_rank,pre-rank,kmeans_role,rbml_score,RBML_rank,pca_score,PCA_rank
+1,Umar Gul,PAK,20.336,5,Best,SB,0.663,5,1.429,5
+2,S Badree,WI,21.667,7,Best,SB,0.62,9,1.309,9
+3,DL Vettori,NZ,18.696,4,Best,SB,0.642,6,1.361,6
+4,T Shamsi,SA,25.118,9,Best,SB,0.624,7,1.345,7
+5,SP Narine,WI,21.285,6,Best,SB,0.621,8,1.314,8
+6,Rashid Khan,AFG,13.26,1,Best,SB,0.769,1,1.643,1
+7,Shahid Afridi,PAK,27.006,10,Best,SB,0.598,10,1.285,10
+8,JR Hazlewood,AUS,21.684,8,Best,SB,0.693,4,1.53,4
+9,PWH de Silva,SL,15.578,2,Best,SB,0.752,2,1.61,2
+10,Imran Tahir,SA,16.87,3,Best,SB,0.723,3,1.558,3
