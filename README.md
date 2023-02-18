@@ -30,10 +30,10 @@ The main conclusion of this project is that rating individuals in team sports, e
 ## Dependencies
 This project uses several Python packages and libraries, including:
 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-beautifulsoup4
-requests
+* pandas
+* numpy
+* scikit-learn
+* matplotlib
+* seaborn
+* beautifulsoup4
+* requests
