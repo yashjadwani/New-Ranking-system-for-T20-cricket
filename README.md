@@ -36,4 +36,3 @@ This project uses several Python packages and libraries, including:
 * matplotlib
 * seaborn
 * beautifulsoup4
-* requests
